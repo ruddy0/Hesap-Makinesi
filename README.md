@@ -1,2 +1,2 @@
 # Hesap-Makinesi
-Python programlama diliyle yazılmış basit işlemle riçin kullanılmak için tasarlanmış basit hesap makinesi.
+Python programlama diliyle basit işlemlerde kullanılmak için tasarlanmış hesap makinesi.
