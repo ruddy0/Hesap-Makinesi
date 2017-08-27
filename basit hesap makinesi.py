@@ -1,4 +1,4 @@
-encoding: utf-8
+# encoding: utf-8
 giriş ="""
 (1) Toplama
 (2) Çıkarma
